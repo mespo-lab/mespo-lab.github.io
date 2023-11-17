@@ -22,12 +22,12 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
+google_scholar: https://scholar.google.com/citations?user=B5_2lu0AAAAJ&hl=EN&oi=ao
 cv_link: 
-github_link: https://github.com/song-chen1/
-linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
-twitter: 
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+# github_link: https://github.com/song-chen1/
+# linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
+# twitter: 
+researchgate: https://www.researchgate.net/profile/Zhengmao-Li
 
 # Images 
 avatar: ./assets/img/avatar.jpg
