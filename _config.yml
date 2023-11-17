@@ -13,8 +13,9 @@ address_link: https://www.google.fr/maps/place/Maarintie+8,+02150+Espoo/@60.1868
 # Search Engine Optimization (SEO)
 keywords: Zhengmao Li, Zhengmao Li, Zhengmao Li, Zhengmao Li
 canonical: https://minimal-light-theme.yliu.me/
-description: “Dr. Li received the B.E. degree in information engineering and the M.E. degree in electrical engineering from Shandong University, Ji'nan, China, and the Ph.D. degree in electrical engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2020. During 2019-2021, he was a Research Fellow with the Stevens Institute of Technology, Hoboken, NJ, USA under IEEE Fellow, Prof. Wu Lei. From 2021-2023, he was a Research Fellow at Nanyang Technological University and Singapore ETH Center under IEEE Fellow, Prof. Wang Peng and Prof. Xu Yan.
-From April. 2023, Dr.Li joined Aalto University as an Assistant Professor.”
+description: |
+  Dr. Li received the B.E. degree in information engineering and the M.E. degree in electrical engineering from Shandong University, Ji'nan, China, and the Ph.D. degree in electrical engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2020. During 2019-2021, he was a Research Fellow with the Stevens Institute of Technology, Hoboken, NJ, USA under IEEE Fellow, Prof. Wu Lei. From 2021-2023, he was a Research Fellow at Nanyang Technological University and Singapore ETH Center under IEEE Fellow, Prof. Wang Peng and Prof. Xu Yan.
+From April. 2023, Dr.Li joined Aalto University as an Assistant Professor.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
