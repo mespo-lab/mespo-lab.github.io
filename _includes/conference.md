@@ -2,7 +2,7 @@
 
 <h2 style="margin: 30px 0px -15px;">Conferences & Events<temp style="font-size:15px;"></temp></h2>
 
-<div class="publications">
+<div class="projects">
 <ol class="bibliography">
 
 {% for link in site.data.conferences.main %}
