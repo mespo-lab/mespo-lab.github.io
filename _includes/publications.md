@@ -1,9 +1,58 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Song-Chen-60" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B5_2lu0AAAAJ&hl=EN&oi=ao" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Zhengmao-Li" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
+
+<h3 style="margin: 5px 0px 5px;">Journal List</h3>
+<ul>
+<li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, Peng Wang and Gaoxi Xiao, "[Restoration of Multi Energy Distribution Systems With Joint District Network Recon Figuration by a Distributed Stochastic Programming Approach](https://ieeexplore.ieee.org/abstract/document/10258416/authors#authors)," <em>IEEE Transactions on Smart Grid</em>, Early Access, 2023.
 
 
-<div class="publications">
+<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<div id="newsmore" style="display:none">
+<li><strong>[JUN. 2021]</strong> Join the <a href="https://www.spin-ion.com/">Spin-Ion Technologies</a>, involved in the <a href="https://bemagic-etn.eu/">BeMAGIC</a> program (Marie Sklodowska-Curie European Training Network).</li>
+</div>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
@@ -45,6 +94,6 @@
 
 <br>
 
-{% endfor %}
+{% endfor %} -->
 
 
