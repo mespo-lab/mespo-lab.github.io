@@ -4,7 +4,7 @@
 
 <h3 style="margin: 5px 0px 5px;">Journal List</h3>
 <ul>
-<li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, Peng Wang and Gaoxi Xiao, "[Restoration of Multi Energy Distribution Systems With Joint District Network Recon Figuration by a Distributed Stochastic Programming Approach](https://ieeexplore.ieee.org/abstract/document/10258416/authors#authors)," <em>IEEE Transactions on Smart Grid</em>, Early Access, 2023.</li>
+<li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, Peng Wang and Gaoxi Xiao, "<a href="https://ieeexplore.ieee.org/abstract/document/10258416/authors#authors">Restoration of Multi Energy Distribution Systems With Joint District Network Recon Figuration by a Distributed Stochastic Programming Approach</a>," <em>IEEE Transactions on Smart Grid</em>, Early Access, 2023.</li>
 
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
