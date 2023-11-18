@@ -4,9 +4,9 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h3 style="margin: 60px 0px 0px;">Welcome to MESPO research lab!</h3>
+<h1 style="margin: 60px 0px 10px;">Welcome to MESPO research lab!</h1>
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 20px 0px 10px;">Short Bio</h2>
 
 <!-- I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation. -->
 Dr. Li received the B.E. degree in information engineering and the M.E. degree in electrical engineering from Shandong University, Ji'nan, China, and the Ph.D. degree in electrical engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2020. During 2019-2021, he was a Research Fellow with the Stevens Institute of Technology, Hoboken, NJ, USA under IEEE Fellow, [Prof. Wu Lei](https://www.stevens.edu/profile/lwu11). From 2021-2023, he was a Research Fellow at Nanyang Technological University and Singapore ETH Center under IEEE Fellow, Prof. Wang Peng and [Prof. Xu Yan](https://eexuyan.github.io/soda/index.html). From April. 2023, Dr.Li joined [Aalto University](https://www.aalto.fi/en) as an Assistant Professor.
