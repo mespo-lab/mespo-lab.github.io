@@ -9,7 +9,7 @@
 <li>Yesen Yang, <strong>Zhengmao Li</strong>, Pradeep V. Mandapaka,  Edmond and Y.M. Lo<sup>*</sup>, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261923003173">Risk-averse restoration of coupled power and water systems with small pumped-hydro storage and stochastic rooftop renewables</a>," <em>Applied Energy</em>, vol. 339, no. 120953, pp. 1-14, Mar, 2023.</li>
 <li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, Peng Wang, and Gaoxi Xiao, "<a href="https://ieeexplore.ieee.org/abstract/document/10258416">Coordinated preparation and recovery of a post-disaster multi-energy distribution system considering thermal inertia and diverse uncertainties</a>," <em>Applied Energy</em>, vol. 336, no. 120736, pp. 1-16, Jan, 2023.</li>
 <li>Junjie Zhong, Yong Li<sup>*</sup>,  Yan Wu, Yijia Cao, <strong>Zhengmao Li</strong>, Yanjian Peng, Xuebo Qiao, Yong Xu, Qian Yu, Xusheng Yang, Zuyi Li, and Mohammad Shahidehpour, "<a href="https://ieeexplore.ieee.org/abstract/document/10061341">Optimal Operation of Energy Hub: An Integrated Model Combined Distributionally Robust Optimization Method With Stackelberg Game</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 3, pp. 1835-1848, Jul 2023.</li>
-<li>Hongxu Huang, <strong>Zhengmao Li</strong>, Hoay Beng Gooi, Haifeng Qiu, Xiaotong Zhang, Chaoxian Lv, Rui Liang<sup>*</sup>, and Dunwei Gong, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922018347">Distributionally robust energy-transportation coordination in coal mine integrated energy systems</a>," <em>Applied Energy,"</em>, vol. 333, no. 120577, pp. 1-15, Dec, 2023.</li>
+<li>Hongxu Huang, <strong>Zhengmao Li</strong>, Hoay Beng Gooi, Haifeng Qiu, Xiaotong Zhang, Chaoxian Lv, Rui Liang<sup>*</sup>, and Dunwei Gong, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922018347">Distributionally robust energy-transportation coordination in coal mine integrated energy systems</a>," <em>Applied Energy</em>, vol. 333, no. 120577, pp. 1-15, Dec, 2023.</li>
 
 
 
@@ -18,88 +18,5 @@
 <li><strong>[JUN. 2021]</strong> Join the <a href="https://www.spin-ion.com/">Spin-Ion Technologies</a>, involved in the <a href="https://bemagic-etn.eu/">BeMAGIC</a> program (Marie Sklodowska-Curie European Training Network).</li>
 </div>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div class="publications">
-<ol class="bibliography">
-
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
-{% endfor %} -->
 
 
