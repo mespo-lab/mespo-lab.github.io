@@ -4,38 +4,31 @@ permalink: /publications-1/index.html
 title: Publications-1
 ---
 
-Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+<h1 id="publications"></h1>
 
-## Conference Paper
+<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B5_2lu0AAAAJ&hl=EN&oi=ao" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Zhengmao-Li" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+<h3 style="margin: 10px 0px 10px;">Journal List</h3>
+<ul>
+<li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, Peng Wang, and Gaoxi Xiao, "<a href="https://ieeexplore.ieee.org/abstract/document/10258416">Restoration of Multi Energy Distribution Systems With Joint District Network Recon Figuration by a Distributed Stochastic Programming Approach</a>," <em>IEEE Transactions on Smart Grid</em>, Early Access, 2023.</li>
+<li>Luhao Wang, Zhuo Wang<sup>*</sup>, <strong>Zhengmao Li</strong>, Ming Yang, and Xingong Cheng, "<a href="https://www.sciencedirect.com/science/article/pii/S0142061523001229">Distributed optimization for network-constrained peer-to-peer energy trading among multiple microgrids under uncertainty</a>," <em>International Journal of Electrical Power & Energy Systems</em>, vol. 149, no. 109065, pp. 1-18, Feb, 2023.</li>
+<li>Yesen Yang, <strong>Zhengmao Li</strong>, Pradeep V. Mandapaka,  Edmond and Y.M. Lo<sup>*</sup>, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261923003173">Risk-averse restoration of coupled power and water systems with small pumped-hydro storage and stochastic rooftop renewables</a>," <em>Applied Energy</em>, vol. 339, no. 120953, pp. 1-14, Mar, 2023.</li>
+<li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, Peng Wang, and Gaoxi Xiao, "<a href="https://ieeexplore.ieee.org/abstract/document/10258416">Coordinated preparation and recovery of a post-disaster multi-energy distribution system considering thermal inertia and diverse uncertainties</a>," <em>Applied Energy</em>, vol. 336, no. 120736, pp. 1-16, Jan, 2023.</li>
+<li>Junjie Zhong, Yong Li<sup>*</sup>,  Yan Wu, Yijia Cao, <strong>Zhengmao Li</strong>, Yanjian Peng, Xuebo Qiao, Yong Xu, Qian Yu, Xusheng Yang, Zuyi Li, and Mohammad Shahidehpour, "<a href="https://ieeexplore.ieee.org/abstract/document/10061341">Optimal Operation of Energy Hub: An Integrated Model Combined Distributionally Robust Optimization Method With Stackelberg Game</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 3, pp. 1835-1848, Jul 2023.</li>
+<li>Hongxu Huang, <strong>Zhengmao Li</strong>, Hoay Beng Gooi, Haifeng Qiu, Xiaotong Zhang, Chaoxian Lv, Rui Liang<sup>*</sup>, and Dunwei Gong, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922018347">Distributionally robust energy-transportation coordination in coal mine integrated energy systems</a>," <em>Applied Energy</em>, vol. 333, no. 120577, pp. 1-15, Dec, 2023.</li>
+<li>Hongxu Huang, <strong>Zhengmao Li</strong>, LP Mohasha Isuru Sampath, Jiawei Yang, Hung D Nguyen, Hoay Beng Gooi, Rui Liang<sup>*</sup>, Dunwei Gong, "<a href="https://ieeexplore.ieee.org/abstract/document/10035877">Blockchain-Enabled Carbon and Energy Trading for Network-Constrained Coal Mines With Uncertainties</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 3, pp. 1634-1647, Jul, 2023.</li>
+<li><strong>Zhengmao Li<sup>*</sup></strong>, Lei Wu, Yan Xu, Luhao Wang, Nan Yang, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922015392">Distributed tri-layer risk-averse stochastic game approach for energy trading among multi-energy microgrids</a>," <em>Applied Energy</em>, vol. 331, no. 120282, pp. 1-17, Oct, 2023.</li>
+<li>Ruoxuan Leng, <strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, "<a href="https://ieeexplore.ieee.org/abstract/document/10018860">Two-stage Stochastic Programming for Coordinated Operation of Distributed Energy Resources in Unbalanced Active Distribution Networks with Diverse Correlated Uncertainties</a>," <em>Journal of Modern Power Systems and Clean Energy</em>, vol. 11, no. 1, pp. 120-131, Jan, 2023.</li>
+<li>Junjie Zhong, Yong Li<sup>*</sup>, Yijia Cao, Yi Tan, Yanjian Peng, Yicheng Zhou, Yosuke Nakanishi, <strong>Zhengmao Li</strong>, "<a href="https://ieeexplore.ieee.org/abstract/document/9872065">Robust coordinated optimization with adaptive uncertainty set for a multi-energy microgrid</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 1, pp. 111-124, Jan. 2023.</li>
+<li>Mao Tan, Chenglin Hu, Jie Chen<sup>*</sup>, Ling Wang, <strong>Zhengmao Li</strong>, "<a href="https://www.sciencedirect.com/science/article/pii/S0952197622001075">Multi-node load forecasting based on multi-task learning with modal feature extraction</a>," <em>Engineering Applications of Artificial Intelligence</em>, vol. 112, no. 104856, Jan, 2022.</li>
+<li>Changsen Feng, Bomiao Liang<sup>*</sup>, <strong>Zhengmao Li</strong>, Weijia Liu, Fushuan Wen, "<a href="https://ieeexplore.ieee.org/abstract/document/9744103">Peer-to-Peer Energy Trading Under Network Constraints Based on Generalized Fast Dual Ascent</a>," <em>IEEE Transactions on Smart Grid</em>, vol. 14, no. 2, pp. 1441-1453, Mar 2023.</li>
+<li><strong>Zhengmao Li</strong>, Lei Wu<sup>*</sup>, Yan Xu, Xiaodong Zheng, "<a href="https://ieeexplore.ieee.org/abstract/document/9609546">Stochastic-Weighted Robust Optimization Based Bilayer Operation of a Multi-Energy Building Microgrid Considering Practical Thermal Loads and Battery Degradation</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 13, no. 2, pp. 668-682, Apr 2022.</li>
+<li>Zhuo Wang, Luhao Wang<sup>*</sup>, <strong>Zhengmao Li</strong>, Xingong Cheng, Qiqiang Li, "<a href="https://www.sciencedirect.com/science/article/pii/S0142061521003859">Optimal distributed transaction of multiple microgrids in grid-connected and islanded modes considering unit commitment scheme</a>," <em>International Journal of Electrical Power & Energy Systems</em>, vol. 132, no. 107146, pp. 1-14, Apr, 2021.</li>
+<li>
+<li>
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
-
-## Journal Paper
-
-- Coming soon... 🚀
-
-  <br>
-
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
-
-  <br>
+<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<div id="newsmore" style="display:none">
+<li><strong>[JUN. 2021]</strong> Join the <a href="https://www.spin-ion.com/">Spin-Ion Technologies</a>, involved in the <a href="https://bemagic-etn.eu/">BeMAGIC</a> program (Marie Sklodowska-Curie European Training Network).</li>
+</div>
+</ul>
