@@ -10,8 +10,16 @@
 <li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, Peng Wang, and Gaoxi Xiao, "<a href="https://ieeexplore.ieee.org/abstract/document/10258416">Coordinated preparation and recovery of a post-disaster multi-energy distribution system considering thermal inertia and diverse uncertainties</a>," <em>Applied Energy</em>, vol. 336, no. 120736, pp. 1-16, Jan, 2023.</li>
 <li>Junjie Zhong, Yong Li<sup>*</sup>,  Yan Wu, Yijia Cao, <strong>Zhengmao Li</strong>, Yanjian Peng, Xuebo Qiao, Yong Xu, Qian Yu, Xusheng Yang, Zuyi Li, and Mohammad Shahidehpour, "<a href="https://ieeexplore.ieee.org/abstract/document/10061341">Optimal Operation of Energy Hub: An Integrated Model Combined Distributionally Robust Optimization Method With Stackelberg Game</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 3, pp. 1835-1848, Jul 2023.</li>
 <li>Hongxu Huang, <strong>Zhengmao Li</strong>, Hoay Beng Gooi, Haifeng Qiu, Xiaotong Zhang, Chaoxian Lv, Rui Liang<sup>*</sup>, and Dunwei Gong, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922018347">Distributionally robust energy-transportation coordination in coal mine integrated energy systems</a>," <em>Applied Energy</em>, vol. 333, no. 120577, pp. 1-15, Dec, 2023.</li>
-
-
+<li>Hongxu Huang, <strong>Zhengmao Li</strong>, LP Mohasha Isuru Sampath, Jiawei Yang, Hung D Nguyen, Hoay Beng Gooi, Rui Liang<sup>*</sup>, Dunwei Gong, "<a href="https://ieeexplore.ieee.org/abstract/document/10035877">Blockchain-Enabled Carbon and Energy Trading for Network-Constrained Coal Mines With Uncertainties</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 3, pp. 1634-1647, Jul, 2023.</li>
+<li><strong>Zhengmao Li<sup>*</sup></strong>, Lei Wu, Yan Xu, Luhao Wang, Nan Yang, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922015392">Distributed tri-layer risk-averse stochastic game approach for energy trading among multi-energy microgrids</a>," <em>Applied Energy</em>, vol. 331, no. 120282, pp. 1-17, Oct, 2023.</li>
+<li>Ruoxuan Leng, <strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, "<a href="https://ieeexplore.ieee.org/abstract/document/10018860">Two-stage Stochastic Programming for Coordinated Operation of Distributed Energy Resources in Unbalanced Active Distribution Networks with Diverse Correlated Uncertainties</a>," <em>Journal of Modern Power Systems and Clean Energy</em>, vol. 11, no. 1, pp. 120-131, Jan, 2023.</li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">
