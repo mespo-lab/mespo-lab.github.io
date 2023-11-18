@@ -16,9 +16,6 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "Publications-1"
-    url: ./publications-1/
-
   - title: "Blogs"
     url: ./blog/
 
