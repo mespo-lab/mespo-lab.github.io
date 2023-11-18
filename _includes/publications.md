@@ -13,11 +13,11 @@
 <li>Hongxu Huang, <strong>Zhengmao Li</strong>, LP Mohasha Isuru Sampath, Jiawei Yang, Hung D Nguyen, Hoay Beng Gooi, Rui Liang<sup>*</sup>, Dunwei Gong, "<a href="https://ieeexplore.ieee.org/abstract/document/10035877">Blockchain-Enabled Carbon and Energy Trading for Network-Constrained Coal Mines With Uncertainties</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 3, pp. 1634-1647, Jul, 2023.</li>
 <li><strong>Zhengmao Li<sup>*</sup></strong>, Lei Wu, Yan Xu, Luhao Wang, Nan Yang, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922015392">Distributed tri-layer risk-averse stochastic game approach for energy trading among multi-energy microgrids</a>," <em>Applied Energy</em>, vol. 331, no. 120282, pp. 1-17, Oct, 2023.</li>
 <li>Ruoxuan Leng, <strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, "<a href="https://ieeexplore.ieee.org/abstract/document/10018860">Two-stage Stochastic Programming for Coordinated Operation of Distributed Energy Resources in Unbalanced Active Distribution Networks with Diverse Correlated Uncertainties</a>," <em>Journal of Modern Power Systems and Clean Energy</em>, vol. 11, no. 1, pp. 120-131, Jan, 2023.</li>
-<li>
-<li>
-<li>
-<li>
-<li>
+<li>Junjie Zhong, Yong Li<sup>*</sup>, Yijia Cao, Yi Tan, Yanjian Peng, Yicheng Zhou, Yosuke Nakanishi, <strong>Zhengmao Li</strong>, "<a href="https://ieeexplore.ieee.org/abstract/document/9872065">Robust coordinated optimization with adaptive uncertainty set for a multi-energy microgrid</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 1, pp. 111-124, Jan. 2023.</li>
+<li>Mao Tan, Chenglin Hu, Jie Chen<sup>*</sup>, Ling Wang, <strong>Zhengmao Li</strong>, "<a href="https://www.sciencedirect.com/science/article/pii/S0952197622001075">Multi-node load forecasting based on multi-task learning with modal feature extraction</a>," <em>Engineering Applications of Artificial Intelligence</em>, vol. 112, no. 104856, Jan, 2022.</li>
+<li>Changsen Feng, Bomiao Liang<sup>*</sup>, <strong>Zhengmao Li</strong>, Weijia Liu, Fushuan Wen, "<a href="https://ieeexplore.ieee.org/abstract/document/9744103">Peer-to-Peer Energy Trading Under Network Constraints Based on Generalized Fast Dual Ascent</a>," <em>IEEE Transactions on Smart Grid</em>, vol. 14, no. 2, pp. 1441-1453, Mar 2023.</li>
+<li><strong>Zhengmao Li</strong>, Lei Wu<sup>*</sup>, Yan Xu, Xiaodong Zheng, "<a href="https://ieeexplore.ieee.org/abstract/document/9609546">Stochastic-Weighted Robust Optimization Based Bilayer Operation of a Multi-Energy Building Microgrid Considering Practical Thermal Loads and Battery Degradation</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 13, no. 2, pp. 668-682, Apr 2022.</li>
+<li>Zhuo Wang, Luhao Wang<sup>*</sup>, <strong>Zhengmao Li</strong>, Xingong Cheng, Qiqiang Li, "<a href="https://www.sciencedirect.com/science/article/pii/S0142061521003859">Optimal distributed transaction of multiple microgrids in grid-connected and islanded modes considering unit commitment scheme</a>," <em>International Journal of Electrical Power & Energy Systems</em>, vol. 132, no. 107146, pp. 1-14, Apr, 2021.</li>
 <li>
 <li>
 
