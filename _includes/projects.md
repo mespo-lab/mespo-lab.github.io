@@ -2,7 +2,38 @@
 
 <h2 style="margin: 30px 0px -15px;">Projects<temp style="font-size:15px;"></temp></h2>
 
-<div class="publications">
+<h3 style="margin: 10px 0px 10px;">Funding Applications with Proposals</h3>
+<ul>
+<li>2023-2025 <strong> Optimal energy ma nagement of offshore microgrid with ships under Mari ti me & Port Au t hor ity of Singapore (MPA)</strong></li>
+
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.projects.main %}
@@ -50,4 +81,4 @@
 
 {% endfor %}
 
-
+ -->
