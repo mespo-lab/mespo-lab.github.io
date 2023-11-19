@@ -12,7 +12,7 @@
 <li>
 <div class="member-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:80;height:40%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:80;height:20%">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="name"><a href="{{ link.googlescholar }}">{{ link.name }}</a></div>
