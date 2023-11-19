@@ -24,11 +24,12 @@
 
   figcaption {
     margin: 0;
+    margin-right=10px;
   }
 
 </style>
 
-<h3 style="margin: 10px 0px 10px;">Ph.D. Students</h3>
+<h3 style="margin: 30px 0px 5px;">Ph.D. Students</h3>
 
 <body>
 
