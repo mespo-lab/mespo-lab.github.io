@@ -44,6 +44,6 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .members ol.personal li .name a:hover { border-bottom-style: solid; text-decoration: none; }
 
-.members ol.personal li .name > em { border-bottom: 1px solid; font-style: normal; }
+.members ol.personal li .name > em { border-bottom: 1px solid; font-style: normal; }  */
 
-.members ol.personal li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 150px; width: 123px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }  */
+.members ol.personal li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 150px; width: 123px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
