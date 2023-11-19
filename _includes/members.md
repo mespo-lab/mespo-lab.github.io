@@ -33,10 +33,10 @@
 <figure>
   <img src="./assets/img/Jia.png" alt="Description" width="100" height="auto">
   <figcaption>
-    <p style="line-height: 0.5;"><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a>, Fall 2023-current</p>
-    <p style="line-height: 0.5;">B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
-    <p style="line-height: 0.5;">M.S., Electrical Engineering, Shandong University, 2023</p>
-    <p style="line-height: 0.5;"><strong>Research Interests:</strong> Data-driven Operation of Energy system</p>
+    <p style="margin-bottom: 5px;"><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a>, Fall 2023-current</p>
+    <p style="margin-bottom: 5px;">B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
+    <p style="margin-bottom: 5px;">M.S., Electrical Engineering, Shandong University, 2023</p>
+    <p style="margin-bottom: 5px;"><strong>Research Interests:</strong> Data-driven Operation of Energy system</p>
   </figcaption>
 </figure>
 
