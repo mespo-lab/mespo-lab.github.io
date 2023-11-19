@@ -32,7 +32,7 @@
 
 <body>
 
-<figure style="margin-bottom: 5px;">
+<figure style="margin-bottom: 2px;">
   <img src="./assets/img/Jia.png" alt="Description" width="100" height="auto">
   <figcaption>
     <p style="margin-bottom: 2px;"><a href="https://scholar.google.com.hk/citations?user=U3qM0kAAAAAJ&hl=en&oi=ao">Zhineng Fei</a>, Fall 2023-current</p>
@@ -41,7 +41,7 @@
     <p style="margin-bottom: 2px;"><strong>Research Interests:</strong> Data-driven Operation of Energy system</p>
   </figcaption>
 </figure>
-<figure>
+<figure style="margin-bottom: 2px;">
   <img src="./assets/img/Jia.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
     <p style="margin-bottom: 2px;"><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a>, Fall 2023-current</p>
