@@ -2,11 +2,11 @@
 
 <h2 style="margin: 30px 0px -15px;">Group Member<temp style="font-size:15px;"></temp></h2>
 
-<div class="image-and-text">
-  <img src="./assets/img/Jia.png" alt="Description" width="300" height="200">
-  <p>Xueyong Jia</p>
-  <p>B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
-</div>
+<p>
+  <img src="./assets/img/Jia.png" alt="Description" style="display: inline-block; vertical-align: middle;">
+  Your text goes here.
+  Your text goes here.
+</p>
 
 
 
