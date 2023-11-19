@@ -17,7 +17,7 @@
   }
 
   img {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
     margin-right: 10px;
   }
@@ -30,10 +30,12 @@
 <body>
 
 <figure>
-  <img src="./assets/img/Jia.png" alt="Description" width="200" height="auto">
+  <img src="./assets/img/Jia.png" alt="Description" >
   <figcaption>
-    <p><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a></p>
-    <p><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a></p>
+    <p><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a>, Fall 2023-current</p>
+    <p>B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
+    <p>M.S., Electrical Engineering, Shandong University, 2023</p>
+    <p><strong>Research Interests:</strong> Data-driven Operation of Energy system</p>
   </figcaption>
 </figure>
 
