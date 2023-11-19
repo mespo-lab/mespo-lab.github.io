@@ -17,7 +17,7 @@
   }
 
   img {
-    width: 20;
+    width: 10;
     height: auto;
     margin-right: 10px;
   }
