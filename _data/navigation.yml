@@ -7,6 +7,9 @@ main:
   - title: "Conferences & Events"
     url: ./#conferences
 
+  - title: "Group Member"
+    url: ./#members
+
   - title: "Publications"
     url: ./#publications
 
