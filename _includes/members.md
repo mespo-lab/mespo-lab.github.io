@@ -14,6 +14,7 @@
     display: flex;
     align-items: center;
     padding: 20px;
+    margin-left: 0; 
   }
 
  img {
