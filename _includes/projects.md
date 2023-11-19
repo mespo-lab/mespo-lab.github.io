@@ -14,18 +14,18 @@
 
 <h3 style="margin: 15px 0px 5px;">Grant Applications</h3>
 <ul>
-<li><strong>Travel Grant for internal conference</strong>&nbsp;&nbsp;<strong>$400, MDPI office</strong>&nbsp;&nbsp;2023<li>
-<li><strong>Travel Grant for internal conference</strong>&nbsp;&nbsp;<strong>$400, MDPI office</strong>&nbsp;&nbsp;2022<li>
+<li><strong>Travel Grant for internal conference</strong>&nbsp;&nbsp;<strong>$400, MDPI office</strong>&nbsp;&nbsp;2023</li>
+<li><strong>Travel Grant for internal conference</strong>&nbsp;&nbsp;<strong>$400, MDPI office</strong>&nbsp;&nbsp;2022</li>
 </ul>
 
 <h3 style="margin: 15px 0px 5px;">Participated Project and Research Experience</h3>
 <ul>
-<li><strong>Methods for resilience assessment and capacity expansion of power system under State Grid Corporation of China</strong>&nbsp;&nbsp;<strong>Research consultant</strong>&nbsp;&nbsp;Jan. 2022-now<li>
-<li><strong>Recovery of Cyber-Physical System from Disasters and Attacks under NTU and ETH project</strong>&nbsp;&nbsp;<strong>Research fellow</strong>&nbsp;&nbsp;April. 2021-now<li>
-<li><strong>Supporting Sustainable Evolution of Electrical Energy Systems via Closed-Loop Consumer Behavior and Market System under the National Science Foundation in the USA</strong>&nbsp;&nbsp;<strong>Participator/research fellow</strong>&nbsp;&nbsp;Nov. 2019-Apr. 2021<li>
-<li><strong>Recovery of Cyber-Physical System from Disasters and AttackSingapore Ministry of Education under Academic Research Fund Tier-1 project</strong>&nbsp;&nbsp;<strong>Participator</strong>&nbsp;&nbsp;April. 2016-2019<li>
-<li><strong>Powering the City project, Future Cities Lab Global, Singapore-ETH Centre</strong>&nbsp;&nbsp;2022<li>
-<li><strong>Optimal operation, design, and simulation of power systems under the project Science and Technology Foundation for Middle-aged and Young Scientists of Shandong Province</strong>&nbsp;&nbsp;<strong>Participator</strong>&nbsp;&nbsp;Sep. 2013- Jun. 2016<li>
+<li><strong>Methods for resilience assessment and capacity expansion of power system under State Grid Corporation of China</strong>&nbsp;&nbsp;<strong>Research consultant</strong>&nbsp;&nbsp;Jan. 2022-now</li>
+<li><strong>Recovery of Cyber-Physical System from Disasters and Attacks under NTU and ETH project</strong>&nbsp;&nbsp;<strong>Research fellow</strong>&nbsp;&nbsp;April. 2021-now</li>
+<li><strong>Supporting Sustainable Evolution of Electrical Energy Systems via Closed-Loop Consumer Behavior and Market System under the National Science Foundation in the USA</strong>&nbsp;&nbsp;<strong>Participator/research fellow</strong>&nbsp;&nbsp;Nov. 2019-Apr. 2021</li>
+<li><strong>Recovery of Cyber-Physical System from Disasters and AttackSingapore Ministry of Education under Academic Research Fund Tier-1 project</strong>&nbsp;&nbsp;<strong>Participator</strong>&nbsp;&nbsp;April. 2016-2019</li>
+<li><strong>Powering the City project, Future Cities Lab Global, Singapore-ETH Centre</strong>&nbsp;&nbsp;2022</li>
+<li><strong>Optimal operation, design, and simulation of power systems under the project Science and Technology Foundation for Middle-aged and Young Scientists of Shandong Province</strong>&nbsp;&nbsp;<strong>Participator</strong>&nbsp;&nbsp;Sep. 2013- Jun. 2016</li>
 </ul>
 
 
