@@ -12,10 +12,21 @@
 <li><strong>How Can We Activate the Flexibility Market in Singapore?-A City-scale Analys is for Demand side Flexibility Considering the High Penetration of PV Generation and EV Charging Demand in Singapore (Pending)</strong> 2020-2021</li>
 </ul>
 
+<h3 style="margin: 15px 0px 5px;">Grant Applications</h3>
+<ul>
+<li><strong>Travel Grant for internal conference</strong>  <strong>$400, MDPI office</strong>  2023<li>
+<li><strong>Travel Grant for internal conference</strong>  <strong>$400, MDPI office</strong>  2022<li>
+</ul>
 
-
-
-
+<h3 style="margin: 15px 0px 5px;">Participated Project and Research Experience</h3>
+<ul>
+<li><strong>Methods for resilience assessment and capacity expansion of power system under State Grid Corporation of China</strong>  <strong>Research consultant</strong>  Jan. 2022-now<li>
+<li><strong>Recovery of Cyber-Physical System from Disasters and Attacks under NTU and ETH project</strong>  <strong>Research fellow</strong>  April. 2021-now<li>
+<li><strong>Supporting Sustainable Evolution of Electrical Energy Systems via Closed-Loop Consumer Behavior and Market System under the National Science Foundation in the USA</strong>  <strong>Participator/research fellow</strong>  Nov. 2019-Apr. 2021<li>
+<li><strong>Recovery of Cyber-Physical System from Disasters and AttackSingapore Ministry of Education under Academic Research Fund Tier-1 project</strong>  <strong>Participator</strong>  April. 2016-2019<li>
+<li><strong>Powering the City project, Future Cities Lab Global, Singapore-ETH Centre</strong>  2022<li>
+<li><strong>Optimal operation, design, and simulation of power systems under the project Science and Technology Foundation for Middle-aged and Young Scientists of Shandong Province</strong>  <strong>Participator</strong>  Sep. 2013- Jun. 2016<li>
+</ul>
 
 
 
