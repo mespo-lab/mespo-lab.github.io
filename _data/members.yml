@@ -5,7 +5,7 @@ main:
     MS: M.S., Electrical Engineering, Shandong University, 2023
     ResearchInterests: Research Interests:The software is used to aplly the bias voltage and measure the current. Futher features such as I-V, V-I switching toggle, and Cyclic Voltammetry (CV) will be also included. 
     googlescholar: https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao
-    image: ./assets/img/jia.png
+    image: ./assets/img/Jia.png
 
 
   # - title: Anomalous Hall Effect Measurement System (AHEMS)
