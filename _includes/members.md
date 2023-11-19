@@ -16,25 +16,25 @@
     padding: 20px;
   }
 
-  img {
+  /* img {
     width: 10;
     height: auto;
     margin-right: 10px;
-  }
+  } */
 
   figcaption {
     margin: 0;
   }
 
   p {
-  line-height: 0.2;
+  line-height: 1;
   }
 </style>
 
 <body>
 
 <figure>
-  <img src="./assets/img/Jia.png" alt="Description" >
+  <img src="./assets/img/Jia.png" alt="Description" width="100" height="auto">
   <figcaption>
     <p><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a>, Fall 2023-current</p>
     <p>B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
