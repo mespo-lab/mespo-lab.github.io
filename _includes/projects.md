@@ -4,12 +4,12 @@
 
 <h3 style="margin: 30px 0px 5px;">Funding Applications with Proposals</h3>
 <ul>
-<li>2023-2025 <strong>Optimal energy management of offshore microgrid with ships under Maritime & Port Authority of Singapore (MPA)</strong></li>
-<li>2021-2023 <strong>Recovery of Cyber-Physical System from Disasters and Attacks under NTU and ETH</strong></li>
-<li>2020-2022 <strong>Supporting Sustainable Evolution of Electrical Energy Systems via Closed Loop Consumer Behavior and Market System in the USA</strong></li>
-<li>2023-2024 <strong>Data based resilience of multi-energy Microgrid (DR-MEMG), Marie-Curie Postdoctoral Fellowship 2022</strong></li>
-<li>2021-2023 <strong>Optimal smart online resilient planning and operation of various multi-energy systems under heterogeneous uncertainties and contingencies. Lee Kuan Yew Postd oct oral Fellowship (pending)</strong></li>
-<li>2020-2021 <strong>How Can We Activate the Flexibility Market in Singapore?-A City-scale Analys is for Demand side Flexibility Considering the High Penetration of PV Generation and EV Charging Demand in Singapore (Pending)</strong></li>
+<li><strong>Optimal energy management of offshore microgrid with ships under Maritime & Port Authority of Singapore (MPA)</strong> 2023-2025</li>
+<li><strong>Recovery of Cyber-Physical System from Disasters and Attacks under NTU and ETH</strong> 2021-2023</li>
+<li><strong>Supporting Sustainable Evolution of Electrical Energy Systems via Closed Loop Consumer Behavior and Market System in the USA</strong> 2020-2022</li>
+<li><strong>Data based resilience of multi-energy Microgrid (DR-MEMG), Marie-Curie Postdoctoral Fellowship 2022</strong> 2023-2024</li>
+<li><strong>Optimal smart online resilient planning and operation of various multi-energy systems under heterogeneous uncertainties and contingencies. Lee Kuan Yew Postd oct oral Fellowship (pending)</strong> 2021-2023</li>
+<li><strong>How Can We Activate the Flexibility Market in Singapore?-A City-scale Analys is for Demand side Flexibility Considering the High Penetration of PV Generation and EV Charging Demand in Singapore (Pending)</strong> 2020-2021</li>
 </ul>
 
 
