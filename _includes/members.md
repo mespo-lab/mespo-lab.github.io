@@ -4,11 +4,11 @@
 
 <ul>
 
-<p>
-  <img src="./assets/img/Jia.png" alt="Description" style="display: inline-block; vertical-align: middle;">
-  Your text goes here.
-  Your text goes here.
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="./assets/img/Jia.png" alt="Description" style="margin-right: 10px;">
+  <p>Your text goes here.</p>
+  <p>Your text goes here.</p>
+</div>
 
 
 </ul>
