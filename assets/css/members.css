@@ -54,4 +54,4 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .members ol.personal li .name > em { border-bottom: 1px solid; font-style: normal; }
 
-.members ol.personal li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 41px; width: 90px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; } 
+.members ol.personal li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; } 
