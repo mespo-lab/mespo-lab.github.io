@@ -2,7 +2,7 @@
 
 <h2 style="margin: 30px 0px -15px;">Projects<temp style="font-size:15px;"></temp></h2>
 
-<h3 style="margin: 10px 0px 10px;">Funding Applications with Proposals</h3>
+<h3 style="margin: 30px 0px 5px;">Funding Applications with Proposals</h3>
 <ul>
 <li>2023-2025 <strong>Optimal energy management of offshore microgrid with ships under Maritime & Port Authority of Singapore (MPA)</strong></li>
 <li>2021-2023 <strong>Recovery of Cyber-Physical System from Disasters and Attacks under NTU and ETH</strong></li>

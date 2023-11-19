@@ -16,15 +16,14 @@
     padding: 20px;
   }
 
-  /* img {
-    width: 10;
-    height: auto;
-    margin-right: 10px;
-  } */
+ img {
+    /* width: 10;
+    height: auto; */
+    margin-right: 20px;
+  } 
 
   figcaption {
     margin: 0;
-    margin-right=10px;
   }
 
 </style>
