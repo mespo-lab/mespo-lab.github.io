@@ -2,16 +2,40 @@
 
 <h2 style="margin: 30px 0px -15px;">Group Member<temp style="font-size:15px;"></temp></h2>
 
-<ul>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-<div style="display: flex; align-items: center;">
-  <img src="./assets/img/Jia.png" alt="Description" style="margin-right: 10px;">
-  <p>Your text goes here.</p>
-  <p>Your text goes here.</p>
-</div>
+  figure {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
 
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+  }
 
-</ul>
+  figcaption {
+    margin: 0;
+  }
+</style>
+
+<body>
+
+<figure>
+  <img src="./assets/img/Jia.png" alt="Description">
+  <figcaption>Your text goes here. This is another example of horizontal alignment.</figcaption>
+  <figcaption>Your text goes here. This is another example of horizontal alignment.</figcaption>
+</figure>
+
+</body>
 
 
 
