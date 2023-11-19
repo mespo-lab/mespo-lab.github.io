@@ -38,6 +38,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .members ol.personal li { min-height: 110px; margin-bottom: 0.5rem; }
 
+.members ol.personal li .abbr { height: 8rem; margin-bottom: 0.5rem; }
+
+.members ol.personal li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
+
+.members ol.personal li .abbr abbr a { color: white; }
+
+.members ol.personal li .abbr abbr a:hover { text-decoration: none; }
+
 .members ol.personal li .name { font-weight: bolder; }
 
 .members ol.personal li .name a { border-bottom: 1px var(--global-theme-color); }
