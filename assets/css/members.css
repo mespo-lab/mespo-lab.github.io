@@ -34,6 +34,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .members h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
 
+.members ol.personal li .abbr { display: flex; align-items: center; }
+
 .members ol.personal li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
 .members ol.personal li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
