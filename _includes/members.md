@@ -30,7 +30,7 @@
 <body>
 
 <figure>
-  <img src="./assets/img/Jia.png" alt="Description">
+  <img src="./assets/img/Jia.png" alt="Description" width="300" height="auto">
   <figcaption>Your text goes here. This is another example of horizontal alignment.</figcaption>
   <figcaption>Your text goes here. This is another example of horizontal alignment.</figcaption>
 </figure>
