@@ -2,7 +2,6 @@
 
 <h2 style="margin: 30px 0px -15px;">Group Member<temp style="font-size:15px;"></temp></h2>
 
-
 <div class="members">
 
 <ol class="personal">
@@ -25,5 +24,5 @@
 
 <br>
 
-{% endfor %} -->
+{% endfor %} 
 
