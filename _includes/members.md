@@ -31,8 +31,10 @@
 
 <figure>
   <img src="./assets/img/Jia.png" alt="Description" width="300" height="auto">
-  <figcaption>Your text goes here. This is another example of horizontal alignment.</figcaption>
-  <figcaption>Your text goes here. This is another example of horizontal alignment.</figcaption>
+  <figcaption>
+    <p><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a></p>
+    <p><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a></p>
+  </figcaption>
 </figure>
 
 </body>
