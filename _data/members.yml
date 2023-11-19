@@ -3,7 +3,7 @@ main:
   - name: Xueyong Jia
     BE: B.E., Electrical Engineering, North China University of Science and Technology, 2020
     MS: M.S., Electrical Engineering, Shandong University, 2023
-    ResearchInterests: Research Interests:The software is used to aplly the bias voltage and measure the current. Futher features such as I-V, V-I switching toggle, and Cyclic Voltammetry (CV) will be also included. 
+    ResearchInterests: <strong>Research Interests:</strong> Data-driven Operation of Energy system
     googlescholar: https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao
     image: ./assets/img/Jia.png
 
