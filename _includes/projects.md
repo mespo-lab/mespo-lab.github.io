@@ -10,16 +10,16 @@
 <li><strong>Data based resilience of multi-energy Microgrid (DR-MEMG), Marie-Curie Postdoctoral Fellowship 2022</strong> 2023-2024</li>
 <li><strong>Optimal smart online resilient planning and operation of various multi-energy systems under heterogeneous uncertainties and contingencies. Lee Kuan Yew Postd oct oral Fellowship (pending)</strong> 2021-2023</li>
 <li><strong>How Can We Activate the Flexibility Market in Singapore?-A City-scale Analys is for Demand side Flexibility Considering the High Penetration of PV Generation and EV Charging Demand in Singapore (Pending)</strong> 2020-2021</li>
-</ul>
+
 
 <h3 style="margin: 15px 0px 5px;">Grant Applications</h3>
-<ul>
+
 <li><strong>Travel Grant for internal conference</strong>  <strong>$400, MDPI office</strong>  2023<li>
 <li><strong>Travel Grant for internal conference</strong>  <strong>$400, MDPI office</strong>  2022<li>
-</ul>
+
 
 <h3 style="margin: 15px 0px 5px;">Participated Project and Research Experience</h3>
-<ul>
+
 <li><strong>Methods for resilience assessment and capacity expansion of power system under State Grid Corporation of China</strong>  <strong>Research consultant</strong>  Jan. 2022-now<li>
 <li><strong>Recovery of Cyber-Physical System from Disasters and Attacks under NTU and ETH project</strong>  <strong>Research fellow</strong>  April. 2021-now<li>
 <li><strong>Supporting Sustainable Evolution of Electrical Energy Systems via Closed-Loop Consumer Behavior and Market System under the National Science Foundation in the USA</strong>  <strong>Participator/research fellow</strong>  Nov. 2019-Apr. 2021<li>
