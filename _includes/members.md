@@ -17,13 +17,17 @@
   }
 
   img {
-    max-width: 30%;
+    width: 100;
     height: auto;
     margin-right: 10px;
   }
 
   figcaption {
     margin: 0;
+  }
+
+  p {
+  line-height: 1;
   }
 </style>
 
