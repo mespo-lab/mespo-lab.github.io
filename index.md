@@ -9,7 +9,7 @@ layout: homepage
 <h2 style="margin: 20px 0px 10px;">Professor Bio</h2>
 
 Dr. Li received the B.E. degree in information engineering and the M.E. degree in electrical engineering from Shandong University, Ji'nan, China, and the Ph.D. degree in electrical engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2020. During 2019-2021, he was a Research Fellow with the Stevens Institute of Technology, Hoboken, NJ, USA under IEEE Fellow, [Prof. Wu Lei](https://www.stevens.edu/profile/lwu11). From 2021-2023, he was a Research Fellow at Nanyang Technological University and Singapore ETH Center under IEEE Fellow, Prof. Wang Peng and [Prof. Xu Yan](https://eexuyan.github.io/soda/index.html). From April. 2023, Dr.Li joined [Aalto University](https://www.aalto.fi/en) as an Assistant Professor.
-## Research Interest
+## Research Interests
 His research topics include but not limited to the following aspects:
 - **Planning and operation of integrated-energy systems:** such as (islanded/grid-connected) microgrids, ships, seaports, smart buildings, etc., with integrated power, thermal, and gas networks.
 - **Tackling diverse uncertainties:** such as those from renewable energies, outdoor temperature, gas prices, and ship swinging with the multi-stage (distributional) robust/stochastic optimization methods in multi-energy systems.
