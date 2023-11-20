@@ -3,7 +3,7 @@
     background-color: #002D72;
     overflow: hidden;
 	position:fixed;
-	z-index:3000;
+	z-index:999;
     width:100%;
   }
 
