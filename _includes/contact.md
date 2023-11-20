@@ -12,3 +12,5 @@ We are always looking for self-motivated fully-funded, CSC-funded(preferred), or
 <br />
 <strong>Email:</strong> <email>zhengmao.li@aalto.fi</email>
 <br />
+<strong>CV:</strong> <a href="assets/files/curriculum_vitae.pdf" target="_blank">Download Here</a>
+<br />
