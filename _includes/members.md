@@ -71,7 +71,7 @@
 <figure style="padding-top: 2px;">
   <img src="./assets/img/xuyang.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?hl=en&user=kPJ0CpQAAAAJ">Yang Xu</a>, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;">Yang Xu, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., High Voltage and Insulation Technology, Wuhan University, 2013</p>
     <p style="margin-bottom: 1px;">B.E., Electrical Engineering and Automation, Wuhan University, 2013</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Energy Trading and Market</p>
@@ -80,6 +80,16 @@
 </figure>
 
 <h3 style="margin: 30px 0px 5px;">Current MSc Students (Co-Supervisor)</h3>
+<figure style="padding-top: 2px;">
+  <img src="./assets/img/wanhao.png" alt="Description" width="100" height="auto">
+  <figcaption style="margin-bottom: 5px;">
+    <p style="margin-bottom: 1px;">Wanhao Li, Fall 2022-current</p>
+    <p style="margin-bottom: 1px;">M.S., Mathematics and Applied Mathematics, Nankai University, Fall 2022-current</p>
+    <p style="margin-bottom: 1px;">B.E., Mathematics and Applied Mathematics, Nankai University, 2022</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Energy Trading and Market</p>
+    <p style="margin-bottom: 1px;"><strong>Email:</strong>reverswhli@gmail.com</p>
+  </figcaption>
+</figure>
 
 </body>
 
