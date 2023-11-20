@@ -119,14 +119,14 @@
         <a href="{{ site.address_link }}" rel="noopener"><autocolor>{{ site.address }}</autocolor></a>
         <br>
         {% endif %}
+
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
-        {% if site.email2 %}
-        <br>
-        <email>{{ site.email2 }}</email>
-        {% endif %}
-        
+        {% if site.CV %}
+        <a href="{{ site.CV_link }}" rel="noopener" target="_blank">
+        <autocolor>{{ site.CV }},</autocolor>
+        </a>
         <br>
         <br>
         <div class="social-icons">
