@@ -14,7 +14,6 @@
 <li><strong>Zhengmao Li<sup>*</sup></strong>, Lei Wu, Yan Xu, Luhao Wang, Nan Yang, "<a href="https://www.sciencedirect.com/science/article/pii/S0306261922015392">Distributed tri-layer risk-averse stochastic game approach for energy trading among multi-energy microgrids</a>," <em>Applied Energy</em>, vol. 331, no. 120282, pp. 1-17, Oct, 2023.</li>
 <li>Ruoxuan Leng, <strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, "<a href="https://ieeexplore.ieee.org/abstract/document/10018860">Two-stage Stochastic Programming for Coordinated Operation of Distributed Energy Resources in Unbalanced Active Distribution Networks with Diverse Correlated Uncertainties</a>," <em>Journal of Modern Power Systems and Clean Energy</em>, vol. 11, no. 1, pp. 120-131, Jan, 2023.</li>
 <li>Junjie Zhong, Yong Li<sup>*</sup>, Yijia Cao, Yi Tan, Yanjian Peng, Yicheng Zhou, Yosuke Nakanishi, <strong>Zhengmao Li</strong>, "<a href="https://ieeexplore.ieee.org/abstract/document/9872065">Robust coordinated optimization with adaptive uncertainty set for a multi-energy microgrid</a>," <em>IEEE Transactions on Sustainable Energy</em>, vol. 14, no. 1, pp. 111-124, Jan. 2023.</li>
-
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">
 <li>Mao Tan, Chenglin Hu, Jie Chen<sup>*</sup>, Ling Wang, <strong>Zhengmao Li</strong>, "<a href="https://www.sciencedirect.com/science/article/pii/S0952197622001075">Multi-node load forecasting based on multi-task learning with modal feature extraction</a>," <em>Engineering Applications of Artificial Intelligence</em>, vol. 112, no. 104856, Jan, 2022.</li>
@@ -47,18 +46,19 @@
 
 <h3 style="margin: 15px 0px 5px;">Conference List</h3>
 <ul>
-<li><strong>Li Zhengmao</strong>, Jorma Kyyrä, Xu Yan, Zhao Tianyang, Wang Yunqi, "<a href="https://ieeexplore.ieee.org/abstract/document/10264441/">Cooperative Operation of Renewable-Integrated Multi-Energy Microgrids Under Dynamic Rolling Horizon Strategy</a>," <em>2023 25th European Conference on Power Electronics and Applications (EPE'23 ECCE Europe)</em>, Aalborg, Denmark, pp. 1-9, 2023.</li>
-<!-- <li>
-<li>
-<li>
-<li>
-<li>
-<li> -->
-
+<li><strong>Li Zhengmao</strong>, Jorma Kyyrä, Xu Yan<sup>*</sup>, Zhao Tianyang, Wang Yunqi, "<a href="https://ieeexplore.ieee.org/abstract/document/10264441/">Cooperative Operation of Renewable-Integrated Multi-Energy Microgrids Under Dynamic Rolling Horizon Strategy</a>," <em>2023 25th European Conference on Power Electronics and Applications (EPE'23 ECCE Europe)</em>, Aalborg, Denmark, pp. 1-9, 2023.</li>
+<li>Ruoxuan Leng, <strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, "<a href="https://ieeexplore.ieee.org/abstract/document/10003621/">A Comprehensive Literature Review for Optimal Planning of Distributed Energy Resources in Distribution Grids</a>," <em>2022 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)</em>, Singapore, Singapore, pp. 369-373, 2022.</li>
+<li>Zan Zhou, Yumin Chen, <strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, "<a href="https://ieeexplore.ieee.org/abstract/document/9061850/">Optimal Operation of a Multi-energy Microgrid with Multiple Demand Response Programs</a>," <em>2019 IEEE 3rd Conference on Energy Internet and Energy System Integration (EI2)</em>, Changsha, China, pp. 295-300, 2019.</li>
+<li>Yumin Chen, Yan Xu<sup>*</sup>, <strong>Zhengmao Li</strong>, Xue Feng, Hongming Yang, Luiz Carlos Pereira Da Silva, Ashu Verma, "<a href="https://ieeexplore.ieee.org/abstract/document/8881188/">A Two-Stage Stochastic Operation Approach of Combined Heat and Power Networks</a>," <em>2019 IEEE Innovative Smart Grid Technologies - Asia (ISGT Asia)</em>, Chengdu, China, pp. 3150-3155, 2019.</li>
+<li>Yu Wang, Yan Xu<sup>*</sup>, <strong>Zhengmao Li</strong>, Tung Lam Nguyen, Raphael Caire, Quoc-Tuan Tran, "<a href="https://ieeexplore.ieee.org/abstract/document/8733380">Distributed Event-Triggered Control for Islanded Microgrids: Cyber-Physical Design and Implementation</a>," <em>2019 IEEE/IAS 55th Industrial and Commercial Power Systems Technical Conference (I&CPS)</em>, Calgary, AB, Canada, pp. 1-9, 2019.</li>
+<li>Sidun Fang, Yan Xu<sup>*</sup>, <strong>Zhengmao Li</strong>, "<a href="https://ieeexplore.ieee.org/abstract/document/8733353">Joint Generation and Demand-side Management for Shipboard Carbon Capture and Storage System</a>," <em>2019 IEEE/IAS 55th Industrial and Commercial Power Systems Technical Conference (I&CPS)</em>, Calgary, AB, Canada, pp. 1-8, 2019.</ <li><strong>Li Zhengmao</strong>, Xu Yan<sup>*</sup>, Fang Sidun, Wang Yu, "<a href="https://ieeexplore.ieee.org/abstract/document/8733384">Multi-objective Coordinated Energy Dispatch and Voyage Scheduling for a Multi-energy Cruising Ship</a>," <em>2019 IEEE/IAS 55th Industrial and Commercial Power Systems Technical Conference (I&CPS)</em>, Calgary, AB, Canada, pp. 1-8, 2019.</li>
+<li>Yumin Chen, Yan Xu<sup>*</sup>, <strong>Zhengmao Li</strong>, Shanqiang Feng, Chunchao Hu, Koh Leong Hai, "<a href="https://ieeexplore.ieee.org/abstract/document/8602048/">Optimally Coordinated Operation of a Multi-Energy Microgrid with Coupled Electrical and Heat Networks</a>," <em>2018 International Conference on Power System Technology (POWERCON)</em>, Guangzhou, China, pp. 218-224, 2018.</li>
+<li><strong>Zhengmao Li</strong>, Yan Xu<sup>*</sup>, "<a href="https://ieeexplore.ieee.org/abstract/document/8274205">Dynamic dispatch of grid-connected multi-energy microgrids considering opportunity profit</a>," <em>2017 IEEE Power & Energy Society General Meeting</em>, Chicago, IL, USA, pp. 1-5, 2017.</li>
 </ul>
 
 <h3 style="margin: 15px 0px 5px;">Books</h3>
 <ul>
-
-
+<li>Yan Xu, Wang Yu, Cuo Zhang, <strong>Zhengmao Li</strong>, “Coordination of Distributed Energy Resources in Microgrids: optimization, control, and hardware-in-the-loop validation,” (published), 2021.</li>
+<li>Yan Xu, <strong>Zhengmao Li</strong>, Xue Feng, Yumin Chen, “Optimally Coordinated Operation of a Combined-Heat-and-Electrical Microgrid with Multi-Energy Demand Response” (chapter 15) for the book “Coordinated Operation and Planning of the Modern Heat and Electricity Incorporated Networks”, in Wiley-IEEE Press, 2022.</li>
+<li><strong>Zhengmao Li</strong>, Yan Xu, Lei Wu, “Creating a Greener Shipping Industry with a Multi-energy Solution”, Innovation spotlight for the IEEE Xplore, 2021.</li>
 </ul>
