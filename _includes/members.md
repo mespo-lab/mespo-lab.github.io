@@ -72,7 +72,7 @@
   <img src="./assets/img/xuyang.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
     <p style="margin-bottom: 1px;">Yang Xu, Fall 2023-current</p>
-    <p style="margin-bottom: 1px;">M.S., High Voltage and Insulation Technology, Wuhan University, 2013</p>
+    <p style="margin-bottom: 1px;">M.S., High Voltage and Insulation Technology, Wuhan University, 2009</p>
     <p style="margin-bottom: 1px;">B.E., Electrical Engineering and Automation, Wuhan University, 2013</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Energy Trading and Market</p>
     <p style="margin-bottom: 1px;"><strong>Email:</strong>yang.1.xu@aalto.fi</p>
