@@ -5,7 +5,7 @@
 <ul>
 
 <li><strong>[NOV. 2023]</strong> Thanks to <strong>Dr. Leng Ruoxuan</strong> for her presentation on the topic of “<strong>Two-stage Stochastic Programming for Coordinated Operation of Distributed Energy Resources in Unbalanced Active Distribution Networks with Diverse Correlated Uncertainties</strong>”.</li>
-<li><strong>[DEC. 2021]<strong>Zhengmao Li</strong>, Yan Xu, Lei Wu, “<a href="https://innovate.ieee.org/innovation-spotlight/shipping-energy/">Creating a Greener Shipping Industry with a Multi-energy Solution</a>”, Innovation spotlight for the IEEE Xplore, 2021.</li>
+<li><strong>[DEC. 2021]</strong> <strong>Zhengmao Li</strong>, Yan Xu, Lei Wu, “<a href="https://innovate.ieee.org/innovation-spotlight/shipping-energy/">Creating a Greener Shipping Industry with a Multi-energy Solution</a>”, Innovation spotlight for the IEEE Xplore, 2021.</li>
 
 </ul>
 
