@@ -34,20 +34,20 @@
 <body>
 
 <figure style="padding-top: 2px;">
-  <img src="./assets/img/Jia.png" alt="Description" width="100" height="auto">
+  <img src="./assets/img/Zhineng.png" alt="Description" width="100" height="auto">
   <figcaption>
     <p style="margin-bottom: 2px;"><a href="https://scholar.google.com.hk/citations?user=U3qM0kAAAAAJ&hl=en&oi=ao">Zhineng Fei</a>, Fall 2023-current</p>
-    <p style="margin-bottom: 2px;">B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
-    <p style="margin-bottom: 2px;">M.S., Electrical Engineering, Shandong University, 2023</p>
-    <p style="margin-bottom: 2px;"><strong>Research Interests:</strong> Data-driven Operation of Energy system</p>
+    <p style="margin-bottom: 2px;">M.S., Management Science and Engineering, Hefei University of Technology, 2023</p>
+    <p style="margin-bottom: 2px;">B.E., Business Administration, Wenzhou University, 2020</p>
+    <p style="margin-bottom: 2px;"><strong>Research Interests:</strong> </p>
   </figcaption>
 </figure>
 <figure style="padding-top: 2px;">
   <img src="./assets/img/Jia.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
     <p style="margin-bottom: 2px;"><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a>, Fall 2023-current</p>
-    <p style="margin-bottom: 2px;">B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
     <p style="margin-bottom: 2px;">M.S., Electrical Engineering, Shandong University, 2023</p>
+    <p style="margin-bottom: 2px;">B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
     <p style="margin-bottom: 2px;"><strong>Research Interests:</strong> Data-driven Operation of Energy system</p>
   </figcaption>
 </figure>
