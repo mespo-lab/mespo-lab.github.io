@@ -39,7 +39,7 @@
     <p style="margin-bottom: 2px;"><a href="https://scholar.google.com.hk/citations?user=U3qM0kAAAAAJ&hl=en&oi=ao">Zhineng Fei</a>, Fall 2023-current</p>
     <p style="margin-bottom: 2px;">M.S., Management Science and Engineering, Hefei University of Technology, 2023</p>
     <p style="margin-bottom: 2px;">B.E., Business Administration, Wenzhou University, 2020</p>
-    <p style="margin-bottom: 2px;"><strong>Research Interests:</strong> </p>
+    <p style="margin-bottom: 2px;"><strong>Research Interests:</strong>Green Multi-energy Ship and Shipboard</p>
   </figcaption>
 </figure>
 <figure style="padding-top: 2px;">
