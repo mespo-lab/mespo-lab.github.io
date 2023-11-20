@@ -54,11 +54,11 @@
 <figure style="padding-top: 2px;">
   <img src="./assets/img/Amanpour.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 2px;"><a href="https://scholar.google.com.hk/citations?hl=en&user=kPJ0CpQAAAAJ">Saeid Amanpour</a>, Fall 2023-current</p>
-    <p style="margin-bottom: 2px;">B.B.A, Business Administration - International business, Seinäjoen Ammattikorkeakoulu, 2022</p>
-    <p style="margin-bottom: 2px;">M.Eng., Electrical Engineering - Mechatronics and automatic control, University Technology of Malaysia, 2012</p>
-    <p style="margin-bottom: 2px;">B.Sc., Electrical Engineering - Power, Shahid Bahonar University of Kerman, 2007</p>
-    <p style="margin-bottom: 2px;"><strong>Research Interests:</strong>Green Seaport with Port cranes</p>
+    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?hl=en&user=kPJ0CpQAAAAJ">Saeid Amanpour</a>, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;">B.B.A, Business Administration - International business, Seinäjoen Ammattikorkeakoulu, 2022</p>
+    <p style="margin-bottom: 1px;">M.Eng., Electrical Engineering - Mechatronics and automatic control, University Technology of Malaysia, 2012</p>
+    <p style="margin-bottom: 1px;">B.Sc., Electrical Engineering - Power, Shahid Bahonar University of Kerman, 2007</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Seaport with Port cranes</p>
   </figcaption>
 </figure>
 
