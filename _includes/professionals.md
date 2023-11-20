@@ -5,15 +5,15 @@
 <h3 style="margin: 30px 0px 5px;">Editorial & Reviewer Experiences</h3>
 <ul>
 <li>Best reviewer award for CSEE JPES</li>
-<li>Best reviewer award for CSEE JPES</li>     
+<li>Best reviewer award for CSEE JPES</li>
 <li>Chairs at the IEEE Conference on Energy Internet and Energy System Integration</li>
-<li><strong>Assistant editor** for the official WeChat account of Applied Energy</li> 
+<li><strong>Assistant editor</strong> for the official WeChat account of Applied Energy</li> 
 <li>TPC of the IEEE SmartGridComm'23 Workshop</li>
 <li>Task chair of IEEE GCCE 2023 (IEEE 12th Global Conference on Consumer Electronics (GCCE))</li>
 <li><strong>Guest editor</strong> for “IET Smart Grid”</li>
 <li><strong>Guest editor</strong> for “Frontiers in Eneegry research”</li>
-<li><strong>Guest editor</strong> for “Electronics”</li>     
-<li><strong>Guest editor</strong> for “IET Generation Transmission & Distribution”</li>     
+<li><strong>Guest editor</strong> for “Electronics”</li>
+<li><strong>Guest editor</strong> for “IET Generation Transmission & Distribution”</li>
 <li><strong>Guest editor</strong> for “Energies”, “Resources”, “Electricity”, “Electronics” and “Processes”</li>
 <li><strong>Associate editor</strong> for “Frontiers in energy research”</li>
 <li><strong>Guest editor</strong> for “IET Energy Conversion and Economics”</li>
