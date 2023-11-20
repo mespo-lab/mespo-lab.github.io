@@ -78,12 +78,22 @@
     <p style="margin-bottom: 1px;"><strong>Email:</strong>yang.1.xu@aalto.fi</p>
   </figcaption>
 </figure>
+<figure style="padding-top: 2px;">
+  <img src="./assets/img/xinghan.png" alt="Description" width="100" height="auto">
+  <figcaption style="margin-bottom: 5px;">
+    <p style="margin-bottom: 1px;">Xinghan Zhu, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;">M.S., Sustainable Energy Systems, Aalto University, Fall 2022-current</p>
+    <p style="margin-bottom: 1px;">B.E., Materials Processing and Control Engineering,  Huaqiao University, 2020</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Forecasting for green energy systems</p>
+    <p style="margin-bottom: 1px;"><strong>Email:</strong>Xinghan.zhu@aalto.fi</p>
+  </figcaption>
+</figure>
 
 <h3 style="margin: 30px 0px 5px;">Current MSc Students (Co-Supervisor)</h3>
 <figure style="padding-top: 2px;">
   <img src="./assets/img/wanhao.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;">Wanhao Li, Fall 2022-current</p>
+    <p style="margin-bottom: 1px;">Wanhao Li, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., Mathematics and Applied Mathematics, Nankai University, Fall 2022-current</p>
     <p style="margin-bottom: 1px;">B.E., Mathematics and Applied Mathematics, Nankai University, 2022</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Energy Trading and Market</p>
