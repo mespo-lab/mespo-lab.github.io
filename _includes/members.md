@@ -29,9 +29,9 @@
 
 </style>
 
-<h3 style="margin: 30px 0px 5px;">Ph.D. Students</h3>
-
 <body>
+
+<h3 style="margin: 30px 0px 5px;">Current Ph.D. Students (Chief Supervisor)</h3>
 
 <figure style="padding-top: 2px;">
   <img src="./assets/img/Zhineng.png" alt="Description" width="100" height="auto">
@@ -64,6 +64,12 @@
     <p style="margin-bottom: 1px;"><strong>Email:</strong>saeid.amanpour@aalto.fi</p>
   </figcaption>
 </figure>
+
+<h3 style="margin: 30px 0px 5px;">Current Ph.D. Students (Co-Supervisor)</h3>
+
+<h3 style="margin: 30px 0px 5px;">Current MSc Students (Dissertation)</h3>
+
+<h3 style="margin: 30px 0px 5px;">Current MSc Students (Co-Supervisor)</h3>
 
 </body>
 
