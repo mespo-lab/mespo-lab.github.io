@@ -38,6 +38,8 @@
 <li>Liu Wenxue, Liang Jun<sup>*</sup>, Yun Zhihao, <strong>Zhengmao Li</strong>, Dong Xiaoming, “<a href="https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=DGJS201601009&uniplatform=OVERSEA&v=4q1HEfYBtFC8Sc5pO3_Hk0onteIUgO3v3jXcwOk_VjLKmb3KX8f36nKuHmluw0oU">Multi-objective Fuzzy Chance Constrained Dynamic Economic Dispatch Considering Energy Saving and Emission Reduction</a>," <em>Transactions of China Electrotechnical Society</em>, Vol. 1, No. 1, pp. 62-70, Mar. 2016.</li>
 <li><strong>Zhengmao Li</strong>, Feng Zhang, Jun Liang<sup>*</sup>, Zhihao Yun, Xu Zhang, “<a href="https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=DLXT201514002&uniplatform=OVERSEA&v=GAMhM02u-q2uIIwiUmNK4qZqNyoVoIQHa3yJ_kNvOjQn7d5JuaalwB84Ds2SAv5X">Dynamic Scheduling of CCHP Type of Microgrid Considering Additional Opportunity Income</a>," <em>Automation of Electric Power Systems</em>, vol. 14, no. 1, pp. 87-15, Mar, 2015.</li>
 <li><strong>Zhengmao Li</strong>, Feng Zhang, Jun Liang<sup>*</sup>, Zhihao Yun, Jun Zhang, “<a href="https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZGDC201514012&uniplatform=OVERSEA&v=XWBxstIrxW442vVzRcNSllcSwRKphlsRTDR79ouYKlnyEXLXtBVzk2_pSqhNNB5K">Optimization on Microgrid with Combined Heat and Power System</a>," <em>Proceedings of the CSEE</em>, vol. 14, no. 1, pp. 3569-3576, Mar, 2015.</li>
+</ul>
+
 
 <h3 style="margin: 15px 0px 5px;">Conference List</h3>
 <ul>
