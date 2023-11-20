@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h1 style="margin: 60px 0px 10px;">Welcome to MESPO  (Multi-energy Planning & Operation) Research Lab!</h1>
+<h1 style="margin: 60px 0px 10px;">Welcome to MESPO  (Multi-energy System Planning & Operation) Research Lab!</h1>
 
 <h2 style="margin: 20px 0px 10px;">Professor Bio</h2>
 
