@@ -10,11 +10,14 @@ main:
   - title: "Group Member"
     url: ./#members
 
-  - title: "Publications"
-    url: ./#publications
+  - title: "Professionals"
+    url: ./#professionals
 
   - title: "Projects"
     url: ./#projects
+
+  - title: "Publications"
+    url: ./#publications
 
   - title: "News"
     url: ./#news

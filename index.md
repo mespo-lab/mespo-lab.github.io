@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h1 style="margin: 60px 0px 10px;">Welcome to MESPO research lab!</h1>
+<h1 style="margin: 60px 0px 10px;">Welcome to MESPO Research Lab!</h1>
 
 <h2 style="margin: 20px 0px 10px;">Professor Bio</h2>
 
@@ -15,33 +15,15 @@ His research topics include but not limited to the following aspects:
 - **Tackling diverse uncertainties:** such as those from renewable energies, outdoor temperature, gas prices, and ship swinging with the multi-stage (distributional) robust/stochastic optimization methods in multi-energy systems.
 - **Resilience enhancement of integrated-energy systems with demand response scheme and heterogeneous transportable energy storage.** 
 - **Advanced algorithms development and application in multi-energy operations** such as approximate dynamic programming, deep reinforcement learning, machine learning, etc.
-<h2 style="margin: 20px 0px 10px;">Editorial & Reviewer Experiences</h2>
-- Best reviewer award for CSEE JPES
-- Best reviewer award for CSEE JPES     
-- Chairs at the IEEE Conference on Energy Internet and Energy System Integration
-- **Assistant editor** for the official WeChat account of Applied Energy 
-- TPC of the IEEE SmartGridComm'23 Workshop
-- Task chair of IEEE GCCE 2023 (IEEE 12th Global Conference on Consumer Electronics (GCCE))
-- **Guest editor** for “IET Smart Grid”
-- **Guest editor** for “Frontiers in Eneegry research”
-- **Guest editor** for “Electronics”     
-- **Guest editor** for “IET Generation Transmission & Distribution”     
-- **Guest editor** for “Energies”, “Resources”, “Electricity”, “Electronics” and “Processes”
-- **Associate editor** for “Frontiers in energy research”
-- **Guest editor** for “IET Energy Conversion and Economics”
-- **Guest editor** for “Energies”
-- **Guest editor** for “Energies”, “Resources”, “Electricity” and “Sustainability” 
-- **Editor** for “Journal of Modern Industry and Manufacturing” 
-- **Editor** for “World Journal of Electrical and Electronic Engineering”
-- **Associate editor** and review editor for “Frontiers In Electronics”
-- 200+ papers reviewed for IEEE Transactions on Smart Grid, IET Generation, Transmission & Distribution, IEEE Access, Applied Energy, IEEE Transactions on Industrial Electronics, CSEE Journal of Power and Energy Systems, International Transactions on Electrical Energy Systems, et al.
 
 {% include_relative _includes/news.md %}
 
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/members.md %}
+{% include_relative _includes/professionals.md %}
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/members.md %}
 
 {% include_relative _includes/contact.md %}
