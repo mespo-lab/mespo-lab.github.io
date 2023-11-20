@@ -12,7 +12,7 @@ Dr. Li received a Ph.D. degree from the School of Electrical and Electronic Engi
 <br/>
 Till Nov 2023, he has published 36 journal papers, 9 conference papers, 2 books, and 2 patents. Among them, there are 13 first-authored journal papers of which 10 are top-tier journals and 4 first-authored conference papers. He got Google Scholar citations 1911 times (h index 22, i10 index: 32) and in total 6 highly cited research papers (4 of which are first-authored journal papers). One paper is regarded as pioneering research on the IEEE Spotlight website. In 2023, he was selected into the World's Top 2% of Scientists in the subfield of “Energy”. 
 <br/>
-Besides, his team is now running an official WeChat account named “综合能源新视界”. You are free to subscribe and contact us for the promotion of academic news or student recruitment. 
+Besides, his team is now running an official WeChat account named “<strong>综合能源新视界</strong>”. You are free to subscribe and contact us for the promotion of academic news or student recruitment. 
 
 ## Research Interests
 His research topics include but not limited to the following aspects:
