@@ -47,7 +47,13 @@
 
 <h3 style="margin: 15px 0px 5px;">Conference List</h3>
 <ul>
-
+<li><strong>Li Zhengmao</strong>, Jorma Kyyrä, Xu Yan, Zhao Tianyang, Wang Yunqi, "<a href="https://ieeexplore.ieee.org/abstract/document/10264441/">Cooperative Operation of Renewable-Integrated Multi-Energy Microgrids Under Dynamic Rolling Horizon Strategy</a>," <em>2023 25th European Conference on Power Electronics and Applications (EPE'23 ECCE Europe)</em>, Aalborg, Denmark, pp. 1-9, 2023.</li>
+<!-- <li>
+<li>
+<li>
+<li>
+<li>
+<li> -->
 
 </ul>
 
