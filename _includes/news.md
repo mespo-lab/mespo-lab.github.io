@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[NOV. 2023]</strong> We were honored to have <strong>Dr. Leng Ruoxuan</strong> present on the topic of “<strong>Two-stage Stochastic Programming for Coordinated Operation of Distributed Energy Resources in Unbalanced Active Distribution Networks with Diverse Correlated Uncertainties</strong>” at our recent event.</li>
+<li><strong>[NOV. 2023]</strong> Thanks to <strong>Dr. Leng Ruoxuan</strong> for her presentation on the topic of “<strong>Two-stage Stochastic Programming for Coordinated Operation of Distributed Energy Resources in Unbalanced Active Distribution Networks with Diverse Correlated Uncertainties</strong>”.</li>
 
 </ul>
 
