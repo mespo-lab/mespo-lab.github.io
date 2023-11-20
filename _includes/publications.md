@@ -59,7 +59,7 @@
 <ul>
 <li>Yan Xu, Wang Yu, Cuo Zhang, <strong>Zhengmao Li</strong>, “Coordination of Distributed Energy Resources in Microgrids: optimization, control, and hardware-in-the-loop validation,” (published), 2021.</li>
 <li>Yan Xu, <strong>Zhengmao Li</strong>, Xue Feng, Yumin Chen, “Optimally Coordinated Operation of a Combined-Heat-and-Electrical Microgrid with Multi-Energy Demand Response” (chapter 15) for the book “Coordinated Operation and Planning of the Modern Heat and Electricity Incorporated Networks”, in Wiley-IEEE Press, 2022.</li>
-<li><strong>Zhengmao Li</strong>, Yan Xu, Lei Wu, “Creating a Greener Shipping Industry with a Multi-energy Solution”, Innovation spotlight for the IEEE Xplore, 2021.</li>
+<li><strong>Zhengmao Li</strong>, Yan Xu, Lei Wu, “<a href="https://innovate.ieee.org/innovation-spotlight/shipping-energy/">Creating a Greener Shipping Industry with a Multi-energy Solution</a>”, Innovation spotlight for the IEEE Xplore, 2021.</li>
 </ul>
 
 
