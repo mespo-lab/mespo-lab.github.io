@@ -96,7 +96,7 @@
     <p style="margin-bottom: 1px;">Wanhao Li, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., Mathematics and Applied Mathematics, Nankai University, Fall 2022-current</p>
     <p style="margin-bottom: 1px;">B.E., Mathematics and Applied Mathematics, Nankai University, 2022</p>
-    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Energy Trading and Market</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Rural Microgrids</p>
     <p style="margin-bottom: 1px;"><strong>Email:</strong>reverswhli@gmail.com</p>
   </figcaption>
 </figure>
