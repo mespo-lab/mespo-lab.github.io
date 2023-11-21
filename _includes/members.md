@@ -36,7 +36,7 @@
 <figure style="padding-top: 2px;">
   <img src="./assets/img/Zhineng.png" alt="Description" width="100" height="auto">
   <figcaption>
-    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?user=U3qM0kAAAAAJ&hl=en&oi=ao">Zhineng Fei</a>, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?user=U3qM0kAAAAAJ&hl=en&oi=ao"><strong>Zhineng Fei</strong></a>, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., Management Science and Engineering, Hefei University of Technology, 2023</p>
     <p style="margin-bottom: 1px;">B.E., Business Administration, Wenzhou University, 2020</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Multi-energy Ship and Shipboard</p>
@@ -46,7 +46,7 @@
 <figure style="padding-top: 2px;">
   <img src="./assets/img/Jia.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao">Xueyong Jia</a>, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?user=blA_MDsAAAAJ&hl=en&oi=ao"><strong>Xueyong Jia</strong></a>, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., Electrical Engineering, Shandong University, 2023</p>
     <p style="margin-bottom: 1px;">B.E., Electrical Engineering, North China University of Science and Technology, 2020</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Data-driven Operation of Energy system</p>
@@ -56,7 +56,7 @@
 <figure style="padding-top: 2px;">
   <img src="./assets/img/Amanpour.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?hl=en&user=kPJ0CpQAAAAJ">Saeid Amanpour</a>, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><a href="https://scholar.google.com.hk/citations?hl=en&user=kPJ0CpQAAAAJ"><strong>Saeid Amanpour</strong></a>, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">B.B.A, Business Administration, Seinäjoen Ammattikorkeakoulu, 2022</p>
     <p style="margin-bottom: 1px;">M.Eng., Electrical Engineering, University Technology of Malaysia, 2012</p>
     <p style="margin-bottom: 1px;">B.Sc., Electrical Engineering, Shahid Bahonar University of Kerman, 2007</p>
@@ -66,12 +66,23 @@
 </figure>
 
 <h3 style="margin: 30px 0px 5px;">Current Ph.D. Students (Co-Supervisor)</h3>
+<figure style="padding-top: 2px;">
+  <img src="./assets/img/Yesen.png" alt="Description" width="100" height="auto">
+  <figcaption style="margin-bottom: 5px;">
+    <p style="margin-bottom: 1px;"><strong>Yesen Yang</strong>, Fall 2021-current</p>
+    <p style="margin-bottom: 1px;">Ph.D., Interdisciplinary Graduate Programme, Nanyang Technological University, Fall 2021-Current</p>
+    <p style="margin-bottom: 1px;">M.S., Power Engineering, Nanyang Technological University, 2021</p>
+    <p style="margin-bottom: 1px;">B.E., Electrical Engineering and Automation, Wuhan University of Technology, 2020</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Resilience analysis of interdependent energy systems</p>
+    <p style="margin-bottom: 1px;"><strong>Email:</strong>yesen001@e.ntu.edu.sg</p>
+  </figcaption>
+</figure>
 
 <h3 style="margin: 30px 0px 5px;">Current MSc Students (Chief Supervisor)</h3>
 <figure style="padding-top: 2px;">
   <img src="./assets/img/xuyang.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;">Yang Xu, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><strong>Yang Xu</strong>, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., High Voltage and Insulation Technology, Wuhan University, 2009</p>
     <p style="margin-bottom: 1px;">B.E., Electrical Engineering and Automation, Wuhan University, 2013</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Energy Trading and Market</p>
@@ -81,7 +92,7 @@
 <figure style="padding-top: 2px;">
   <img src="./assets/img/xinghan.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;">Xinghan Zhu, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><strong>Xinghan Zhu</strong>, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., Sustainable Energy Systems, Aalto University, Fall 2022-current</p>
     <p style="margin-bottom: 1px;">B.E., Materials Processing and Control Engineering,  Huaqiao University, 2020</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Forecasting for green energy systems</p>
@@ -93,7 +104,7 @@
 <figure style="padding-top: 2px;">
   <img src="./assets/img/wanhao.png" alt="Description" width="100" height="auto">
   <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;">Wanhao Li, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><strong>Wanhao Li</strong>, Fall 2023-current</p>
     <p style="margin-bottom: 1px;">M.S., Mathematics and Applied Mathematics, Nankai University, Fall 2022-current</p>
     <p style="margin-bottom: 1px;">B.E., Mathematics and Applied Mathematics, Nankai University, 2022</p>
     <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Rural Microgrids</p>
