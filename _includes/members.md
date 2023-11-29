@@ -84,7 +84,7 @@
     <p style="margin-bottom: 1px;">Ph.D., Electrical Power Engineering, KTH Royal Institute of Technology, Fall 2020-Current</p>
     <p style="margin-bottom: 1px;">M.S., Electrical Power Engineering, Shandong University, 2020</p>
     <p style="margin-bottom: 1px;">B.E., Electrical & Electronic Engineering, City University of London, 2018</p>
-    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Energy management system with high penetration of wind power</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green airport with wind power</p>
     <p style="margin-bottom: 1px;"><strong>Email:</strong>zhonli@kth.se</p>
   </figcaption>
 </figure>
