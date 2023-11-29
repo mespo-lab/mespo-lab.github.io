@@ -77,6 +77,17 @@
     <p style="margin-bottom: 1px;"><strong>Email:</strong>yesen001@e.ntu.edu.sg</p>
   </figcaption>
 </figure>
+<figure style="padding-top: 2px;">
+  <img src="./assets/img/zhongtian.png" alt="Description" width="100" height="auto">
+  <figcaption style="margin-bottom: 5px;">
+    <p style="margin-bottom: 1px;"><strong>Zhongtian Li</strong>, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;">Ph.D., Electrical Power Engineering, KTH Royal Institute of Technology, Fall 2020-Current</p>
+    <p style="margin-bottom: 1px;">M.S., Electrical Power Engineering, Shandong University, 2020</p>
+    <p style="margin-bottom: 1px;">B.E., Electrical & Electronic Engineering, City University of London, 2018</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Energy management system with high penetration of wind power</p>
+    <p style="margin-bottom: 1px;"><strong>Email:</strong>zhonli@kth.se</p>
+  </figcaption>
+</figure>
 
 <h3 style="margin: 30px 0px 5px;">Current MSc Students (Chief Supervisor)</h3>
 <figure style="padding-top: 2px;">
