@@ -110,6 +110,16 @@
     <p style="margin-bottom: 1px;"><strong>Email:</strong>Xinghan.zhu@aalto.fi</p>
   </figcaption>
 </figure>
+<figure style="padding-top: 2px;">
+  <img src="./assets/img/Sinkkonen.png" alt="Description" width="100" height="auto">
+  <figcaption style="margin-bottom: 5px;">
+    <p style="margin-bottom: 1px;"><strong>Jussi Sinkkonen</strong>, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;">M.S., Electrical Power and Energy Engineering, Aalto University, Fall 2021-current</p>
+    <p style="margin-bottom: 1px;">B.E., Engineering, Metropolia University of Applied Sciences, 2021</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>PV and EV coordination</p>
+    <p style="margin-bottom: 1px;"><strong>Email:</strong>jussi.sinkkonen@aalto.fi</p>
+  </figcaption>
+</figure>
 
 <h3 style="margin: 30px 0px 5px;">Current MSc Students (Co-Supervisor)</h3>
 <figure style="padding-top: 2px;">
