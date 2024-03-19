@@ -141,6 +141,25 @@
     <p style="margin-bottom: 1px;"><strong>Email:</strong>reverswhli@gmail.com</p>
   </figcaption>
 </figure>
+<figure style="padding-top: 2px;">
+  <img src="./assets/img/Yizhi.png" alt="Description" width="100" height="auto">
+  <figcaption style="margin-bottom: 5px;">
+    <p style="margin-bottom: 1px;"><strong>Yizhi Jiang</strong>, Spring 2024-current</p>
+    <p style="margin-bottom: 1px;">M.S., Sustainable Energy Systems, KTH Royal Institute of Technology, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Data-driven Operation of Smart Building</p>
+    <p style="margin-bottom: 1px;"><strong>Email:</strong>yizhiji@KTH.se</p>
+  </figcaption>
+</figure>
+<h3 style="margin: 30px 0px 5px;">Current Bachelor Students (Supervisor)</h3>
+<figure style="padding-top: 2px;">
+  <img src="./assets/img/Jiateng.png" alt="Description" width="100" height="auto">
+  <figcaption style="margin-bottom: 5px;">
+    <p style="margin-bottom: 1px;"><strong>Jiateng Zou</strong>, Spring 2024-current</p>
+    <p style="margin-bottom: 1px;">B.E., Financial Engineering, Zhejiang A&F University, Fall 2023-current</p>
+    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Green Multi-energy Microgrids</p>
+    <p style="margin-bottom: 1px;"><strong>Email:</strong>2987027939@qq.com</p>
+  </figcaption>
+</figure>
 
 </body>
 
