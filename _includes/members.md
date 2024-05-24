@@ -88,15 +88,6 @@
     <p style="margin-bottom: 1px;"><strong>Email:</strong>zhonli@kth.se</p>
   </figcaption>
 </figure>
-<figure style="padding-top: 2px;">
-  <img src="./assets/img/Zhengganzhe.png" alt="Description" width="100" height="auto">
-  <figcaption style="margin-bottom: 5px;">
-    <p style="margin-bottom: 1px;"><strong>Zhengganzhe Chen</strong>, Spring 2024-current</p>
-    <p style="margin-bottom: 1px;">Ph.D., Control Science and Engineering, Guangdong University of Technology, Fall 2021-Current</p>
-    <p style="margin-bottom: 1px;"><strong>Research Interests:</strong>Renewable energy prediction & Microgrid operation</p>
-    <p style="margin-bottom: 1px;"><strong>Email:</strong>chen.zhenggz@gmail.com</p>
-  </figcaption>
-</figure>
 
 <h3 style="margin: 30px 0px 5px;">Current MSc Students (Chief Supervisor)</h3>
 <figure style="padding-top: 2px;">
