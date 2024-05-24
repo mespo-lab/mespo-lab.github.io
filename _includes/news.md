@@ -3,6 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[MAY. 2024]</strong> Thanks to <strong>Dr. Zhu Nanyang</strong> for his presentation on the topic of “<strong><a href="assets/files/Research talk_Nanyang Zhu_Aalto University.pdf" target="_blank">Power forecasting techniques of renewable energy</a></strong>”.</li>
 <li><strong>[MAR. 2024]</strong> Thanks to <a href="https://scholar.google.com/citations?user=lV7z0WEAAAAJ&hl=en&oi=ao"><strong>Dr. Yao Canqi</strong></a> for his presentation on the topic of “<strong><a href="assets/files/Research talk_Canqi Yao_Aalto University.pdf" target="_blank">Joint Routing and Charging Problem of Electric Vehicles</a></strong>”.</li>
 <li><strong>[FEB. 2024]</strong> Thanks to <a href="https://scholar.google.com/citations?hl=en&user=lzJBLkEAAAAJ"><strong>Dr. Bai Mingliang</strong></a> for his presentation on the topic of “<strong><a href="assets/files/Research talk_Mingliang Bai_Aalto University.pdf" target="_blank">AI and big data for energy systems</a></strong>”.</li>
 <li><strong>[JAN. 2024]</strong> Thanks to <strong>Dr. Yang Yesen</strong> for his presentation on the topic of “<strong>Resilience Analysis for Interdependent Power and Water Systems</strong>”.</li>
